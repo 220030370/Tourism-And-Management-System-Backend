@@ -7,4 +7,5 @@
 ![pic 6](https://github.com/220030370/Tourism-And-Management-System-Backend/assets/162863275/63b4b988-3396-46ab-852f-8f8d5c38b866)
 ![pic 7](https://github.com/220030370/Tourism-And-Management-System-Backend/assets/162863275/40a3c674-47f0-42da-a7b2-cb6424f23562)
 ![pic 8](https://github.com/220030370/Tourism-And-Management-System-Backend/assets/162863275/199bbe4e-ce59-4eaf-adbd-90079853dd8e)
-
+![pic 9](https://github.com/220030370/Tourism-And-Management-System-Backend/assets/162863275/dd847a18-ce92-4d05-a680-a0f1a21d5d9a)
+![pic 10](https://github.com/220030370/Tourism-And-Management-System-Backend/assets/162863275/7436e9a8-37f4-44c2-a5db-7101f82c491c)
